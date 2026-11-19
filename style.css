@@ -158,6 +158,9 @@ main li {
 
 }
 
+img{
+
+}
 .catalogo {
 
     display: grid;
@@ -234,7 +237,3 @@ footer {
 
 }
 
-img{
-    width:300;
-    height: auto;
-}
